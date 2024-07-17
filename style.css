@@ -2,3 +2,12 @@ html {
   height: 100%;
   width: 100%;
 }
+
+#about {
+background-color: red;}
+
+#work {
+background-color: lightyellow;}
+
+#contact {
+background-color: blue;}
